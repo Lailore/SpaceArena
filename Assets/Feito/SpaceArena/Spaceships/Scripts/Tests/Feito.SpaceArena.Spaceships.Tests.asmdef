@@ -1,0 +1,28 @@
+{
+    "name": "Feito.SpaceArena.Spaceships.Tests",
+    "rootNamespace": "Feito.SpaceArena.Spaceships.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Zenject-TestFramework",
+        "Zenject",
+        "Feito.SpaceArena.Spaceships",
+        "Feito.Shared",
+        "AwaitExtensions"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "NSubstitute.dll",
+        "JetBrains.Lifetimes.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

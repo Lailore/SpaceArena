@@ -1,0 +1,24 @@
+{
+    "name": "Feito.Router",
+    "rootNamespace": "Feito",
+    "references": [
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Zenject",
+        "Feito.Shared",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "JetBrains.Lifetimes.dll",
+        "Zenject-usage.dll",
+        "Collections.Pooled.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

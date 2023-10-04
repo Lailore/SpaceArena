@@ -1,0 +1,27 @@
+{
+    "name": "Feito.SpaceArena.Spaceships",
+    "rootNamespace": "Feito.SpaceArena",
+    "references": [
+        "Zenject",
+        "AwaitExtensions",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Feito.Shared",
+        "Feito.Pools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Stateless.dll",
+        "JetBrains.Lifetimes.dll",
+        "Zenject-usage.dll",
+        "FluentResults.dll",
+        "Collections.Pooled.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

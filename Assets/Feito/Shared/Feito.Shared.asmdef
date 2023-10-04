@@ -1,0 +1,23 @@
+{
+    "name": "Feito.Shared",
+    "rootNamespace": "Feito",
+    "references": [
+        "Zenject",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "JetBrains.Lifetimes.dll",
+        "Zenject-usage.dll",
+        "Collections.Pooled.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

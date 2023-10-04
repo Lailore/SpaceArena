@@ -1,0 +1,27 @@
+{
+    "name": "Feito.SpaceArena.Enemies",
+    "rootNamespace": "Feito.SpaceArena",
+    "references": [
+        "Zenject",
+        "AwaitExtensions",
+        "Feito.SpaceArena.Spaceships",
+        "Feito.SpaceArena.Scorer",
+        "Feito.Shared",
+        "Feito.Pools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Zenject-usage.dll",
+        "JetBrains.Lifetimes.dll",
+        "FluentResults.dll",
+        "Collections.Pooled.dll",
+        "Stateless.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Feito.SpaceArena.Scorer",
+    "rootNamespace": "Feito.SpaceArena",
+    "references": [
+        "Zenject",
+        "Unity.TextMeshPro",
+        "Feito.Shared"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "JetBrains.Lifetimes.dll",
+        "Collections.Pooled.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
